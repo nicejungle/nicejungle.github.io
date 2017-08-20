@@ -70,7 +70,7 @@ ga_domain: nufter.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写代码，看产品，学日语，跑跑步，画画"
+sidebar-about-description: "写代码、看产品、学日语、治痛风，想去跑半马、画画、找到女朋友"
 sidebar-avatar: /img/avatar-cl.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
