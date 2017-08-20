@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: changedjoker@163.com
 description: "打不倒的铁头娃 | 丛林，电子消费品，日语，前后端，屠龙术，折磨人的痛风 | 这里是奈绯，记录着丛林的世界 "
 keyword: "奈绯，nicejungle，丛林，博客, 个人网站, 互联网, 牢骚,教程，设计, 产品"
-url: "nufter.com"              # your host, for absolute URL
+url: "nufter.com"               # your host, for absolute URL
 #url: "http://localhost:4000"            
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
