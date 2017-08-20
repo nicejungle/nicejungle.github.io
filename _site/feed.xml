@@ -5,8 +5,8 @@
     <description>打不倒的铁头娃 | 丛林，电子消费品，日语，前后端，屠龙术，折磨人的痛风 | 这里是奈绯，记录着丛林的世界 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 20 Aug 2017 15:36:42 +0800</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 15:36:42 +0800</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2017 15:42:45 +0800</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2017 15:42:45 +0800</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -30,39 +30,8 @@
 译者 &lt;a href=&quot;http://weibo.com/huxpro&quot;&gt;黄玄&lt;/a&gt;，首次发布于 &lt;a href=&quot;http://huangxuan.me&quot;&gt;Hux Blog&lt;/a&gt;，转载请保留以上链接&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Aug 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/08/20/hel/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/08/20/hel/</guid>
-        
-        <category>设计模式</category>
-        
-        <category>JavaScript</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>设计模式修炼之路</title>
-        <description>&lt;p&gt;在这整个 Blog 中，我将把目前的 ECMAScript 版本称作 ES6（因为这是大部分开发者最习以为常的），把明年的规范称作 ES2016（因为，与 ES6/ES2015 不同，这个名字将在整个标准化过程中沿用）并且将那些还没有成为 ECMAScript 定稿或草案的未来语言概念称为 ECMAScript 提案或者 JavaScript 提案。我将尽我所能在任何可能引起困惑的场合沿用这篇文章。&lt;/p&gt;
-
-&lt;h4 id=&quot;一些资源&quot;&gt;一些资源&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;TC39 的 &lt;a href=&quot;https://github.com/tc39/ecma262&quot;&gt;Github 仓库&lt;/a&gt;上可以看到所有目前公开的提案&lt;/li&gt;
-  &lt;li&gt;如果你还不熟悉 ES6，Babel 有一个&lt;a href=&quot;https://babeljs.io/docs/learn-es2015/&quot;&gt;很不错的特性概览&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;如果你希望深入 ES6，这里有两本很不错的书： Axel Rauschmayer 的 &lt;a href=&quot;http://exploringjs.com/&quot;&gt;Exploring ES6&lt;/a&gt;和 Nicholas Zakas 的 &lt;a href=&quot;https://leanpub.com/understandinges6&quot;&gt;Understanding ECMAScript 6&lt;/a&gt;。Axel 的博客 &lt;a href=&quot;http://www.2ality.com/&quot;&gt;2ality&lt;/a&gt; 也是很不错的 ES6 资源&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img class=&quot;shadow&quot; width=&quot;320&quot; src=&quot;/img/in-post/post-js-version/keep-calm-and-learn-javascript.png&quot; /&gt;
-&lt;small class=&quot;img-hint&quot;&gt;来学 JavaScript 吧！&lt;/small&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;著作权声明&quot;&gt;著作权声明&lt;/h4&gt;
-
-&lt;p&gt;本文译自 &lt;a href=&quot;http://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/&quot;&gt;ES5, ES6, ES2016, ES.Next: What’s going on with JavaScript versioning?&lt;/a&gt; &lt;br /&gt;
-译者 &lt;a href=&quot;http://weibo.com/huxpro&quot;&gt;黄玄&lt;/a&gt;，首次发布于 &lt;a href=&quot;http://huangxuan.me&quot;&gt;Hux Blog&lt;/a&gt;，转载请保留以上链接&lt;/p&gt;
-</description>
-        <pubDate>Sun, 21 Aug 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2016/08/21/hello/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/21/hello/</guid>
+        <link>http://localhost:4000/2017/08/20/hello/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/20/hello/</guid>
         
         <category>设计模式</category>
         
