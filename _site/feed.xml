@@ -5,8 +5,8 @@
     <description>打不倒的铁头娃 | 丛林，电子消费品，日语，前后端，屠龙术，折磨人的痛风 | 这里是奈绯，记录着丛林的世界 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 20 Aug 2017 15:24:38 +0800</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 15:24:38 +0800</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2017 15:36:42 +0800</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2017 15:36:42 +0800</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -29,9 +29,9 @@
 &lt;p&gt;本文译自 &lt;a href=&quot;http://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/&quot;&gt;ES5, ES6, ES2016, ES.Next: What’s going on with JavaScript versioning?&lt;/a&gt; &lt;br /&gt;
 译者 &lt;a href=&quot;http://weibo.com/huxpro&quot;&gt;黄玄&lt;/a&gt;，首次发布于 &lt;a href=&quot;http://huangxuan.me&quot;&gt;Hux Blog&lt;/a&gt;，转载请保留以上链接&lt;/p&gt;
 </description>
-        <pubDate>Sun, 21 Aug 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2016/08/21/hello/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/21/hello/</guid>
+        <pubDate>Sun, 20 Aug 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/08/20/hel/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/20/hel/</guid>
         
         <category>设计模式</category>
         
@@ -61,8 +61,8 @@
 译者 &lt;a href=&quot;http://weibo.com/huxpro&quot;&gt;黄玄&lt;/a&gt;，首次发布于 &lt;a href=&quot;http://huangxuan.me&quot;&gt;Hux Blog&lt;/a&gt;，转载请保留以上链接&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Aug 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2016/08/21/hel/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/21/hel/</guid>
+        <link>http://localhost:4000/2016/08/21/hello/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/08/21/hello/</guid>
         
         <category>设计模式</category>
         

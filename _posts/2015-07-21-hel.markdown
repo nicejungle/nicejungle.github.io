@@ -2,7 +2,7 @@
 layout:     post
 title:      "设计模式修炼之路"
 subtitle:   "从追寻模式到选择模式"
-date:       2016-08-21
+date:       2017-8-20
 author:     "nufter"
 header-img: "img/post-bg-js-version.jpg"
 tags:
