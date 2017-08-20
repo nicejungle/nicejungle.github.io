@@ -1,11 +1,12 @@
 # Site settings
 title: Nufter
 SEOTitle: 奈绯 | nufter
-header-img: img/home-bg.jpg
+header-img: img/home-bg.png
 email: changedjoker@163.com
 description: "打不倒的铁头娃 | 丛林，电子消费品，日语，前后端，屠龙术，折磨人的痛风 | 这里是奈绯，记录着丛林的世界 "
 keyword: "奈绯，nicejungle，丛林，博客, 个人网站, 互联网, 牢骚,教程，设计, 产品"
 url: "nufter.com"              # your host, for absolute URL
+#url: "http://localhost:4000"            
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -62,6 +63,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 #ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: http://localhost:4000
 ga_domain: nufter.com
 
 
@@ -69,7 +71,7 @@ ga_domain: nufter.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写代码，看产品，学日语，跑跑步，画画"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-cl.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
